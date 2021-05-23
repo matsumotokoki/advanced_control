@@ -1,2 +1,3 @@
 # advenced_control
-授業の記録
+
+Class Notes of Advenced Control
